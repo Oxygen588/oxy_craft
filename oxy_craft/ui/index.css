@@ -277,3 +277,23 @@ button {
     background-color: rgb(255, 236, 28);
     box-shadow: 10.58px 14.562px 21px 0px rgba(255, 234, 4, 0.22), 51.137px 70.384px 60px 0px rgb(255 236 28 / 22%);
 }
+
+#buttoncumparare {
+    position: absolute;
+    display: block;
+    font-size: 20px;
+    padding: 25px;
+    text-decoration: none;
+    top: 60%;
+    text-align: center;
+    left: 60%;
+   
+    height: 10%;
+    width: 20%;
+    padding: 5px 10px 5px 10px;
+    box-sizing: border-box;
+    transform: skewY(-4deg);
+    color: black;
+    background-color: rgb(255, 236, 28);
+    box-shadow: 10.58px 14.562px 21px 0px rgba(255, 234, 4, 0.22), 51.137px 70.384px 60px 0px rgb(255 236 28 / 22%);
+} 
